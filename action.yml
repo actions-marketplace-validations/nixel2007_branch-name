@@ -1,4 +1,4 @@
-name: 'Get branch name'
+name: 'nixel2007/Get branch name'
 description: 'Export branch name as environment variable'
 branding:
   icon: 'git-branch'
